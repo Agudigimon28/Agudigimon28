@@ -6,10 +6,14 @@
 <!-- Título con fuente tipo LEGO --> 
 <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=60&duration=3000&pause=1500&color=E3000B&center=true&vCenter=true&width=600&height=80&lines=ChickenMon;%F0%9F%A7%B1+ChickenMon+%F0%9F%A7%B1" alt="ChickenMon"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=24&duration=3000&pause=1000&color=FFCD03&center=true&vCenter=true&width=600&height=40&lines=Developer+%2F+Agudigimon28;Building+my+code+block+by+block." alt="Developer / Agudigimon28"/>
 
-### 🐣 ¡Hi there, I'm **ChickenMon**! 🧱
+### >>>>>>>>>>>>>>>> 🐣 ¡Hi there, I'm **ChickenMon**! 🧱 <<<<<<<<<<<<<<<<
 
 <!-- Imagen ChickenMon -->
 <img src="assets/Lego Chicken.jpg" alt="ChickenMon" width="20%">
+
+
+>>>>>>>>>>>>>>>> CM <<<<<<<<<<<<<<<<
+
 
 ![Level](https://img.shields.io/badge/Level-Baby_I-E3000B?style=for-the-badge&logo=github&logoColor=white)
 ![State](https://img.shields.io/badge/State-Digivolving-FFCD03?style=for-the-badge&labelColor=1A1A1A)
