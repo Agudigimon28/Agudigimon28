@@ -8,7 +8,7 @@
 
 ### 🐣 ¡Hola, soy **ChickenMon**! 🧱
 
-![Nivel](https://img.shields.io/badge/Nivel-Rookie-E3000B?style=for-the-badge&logo=github&logoColor=white)
+![Nivel](https://img.shields.io/badge/Nivel-BebéI-E3000B?style=for-the-badge&logo=github&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Evolucionando-FFCD03?style=for-the-badge&labelColor=1A1A1A)
 ![Visitas](https://komarev.com/ghpvc/?username=ChickenMon&label=Visitas&color=E3000B&style=for-the-badge)
 
