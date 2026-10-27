@@ -3,6 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=ChickenMon&fontSize=70&fontColor=F4F4F4&animation=fadeIn&fontAlignY=38&desc=Developer%20%2F%20Agudigimon28&descAlignY=58&descSize=20" alt="Banner ChickenMon" width="100%"/>
 
+<!-- Cabecera con los colores de ChickenMon (Blanco LEGO / Rojo Cresta / Amarillo Bloque) --> 
+<!-- Banner decorativo (sin texto, porque Capsule Render no permite cambiar la fuente) --> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=120&section=header" alt="Banner ChickenMon" width="100%"/> <!-- Título con fuente tipo LEGO (Lilita One). Otras opciones: Fredoka+One, Luckiest+Guy, Bowlby+One, Chewy --> <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=60&duration=3000&pause=1500&color=E3000B&center=true&vCenter=true&width=600&height=80&lines=ChickenMon;%F0%9F%A7%B1+ChickenMon+%F0%9F%A7%B1" alt="ChickenMon"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=24&duration=3000&pause=1000&color=FFCD03&center=true&vCenter=true&width=600&height=40&lines=Developer+%2F+Agudigimon28;Construyendo+bloque+a+bloque" alt="Developer / Agudigimon28"/>
+
 <!-- Imagen ChickenMon -->
 <img src="assets/Lego Chicken.jpg" alt="ChickenMon" width="20%">
 
