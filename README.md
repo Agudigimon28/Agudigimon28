@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=ChickenMon&fontSize=70&fontColor=F4F4F4&animation=fadeIn&fontAlignY=38&desc=Developer%20%2F%20Agudigimon28&descAlignY=58&descSize=20" alt="Banner ChickenMon" width="100%"/>
 
 <!-- 🖼️ TU IMAGEN: sube tu imagen/arte de ChickenMon al repo (ej: assets/chickenmon.png) y cambia la ruta -->
-<img src="![ChickenMon](./Lego%20Chicken.jpg)" alt="ChickenMon" width="220"/>
+<img src="![ChickenMon](https://raw.githubusercontent.com/Agudigimon28/Agudigimon28/main/Lego%20Chicken.jpg)" alt="ChickenMon" width="220"/>
 
 ### 🐣 ¡Hola, soy **ChickenMon**! 🧱
 
