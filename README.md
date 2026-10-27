@@ -6,25 +6,25 @@
 <!-- Imagen ChickenMon -->
 <img src="assets/Lego Chicken.jpg" alt="ChickenMon" width="20%">
 
-### 🐣 ¡Hola, soy **ChickenMon**! 🧱
+### 🐣 ¡Hi there, I'm **ChickenMon**! 🧱
 
-![Nivel](https://img.shields.io/badge/Nivel-BebéI-E3000B?style=for-the-badge&logo=github&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-Evolucionando-FFCD03?style=for-the-badge&labelColor=1A1A1A)
-![Visitas](https://komarev.com/ghpvc/?username=ChickenMon&label=Visitas&color=E3000B&style=for-the-badge)
+![Level](https://img.shields.io/badge/Nivel-Baby_I-E3000B?style=for-the-badge&logo=github&logoColor=white)
+![State](https://img.shields.io/badge/Estado-Evolucionando-FFCD03?style=for-the-badge&labelColor=1A1A1A)
+![Visits](https://komarev.com/ghpvc/?username=ChickenMon&label=Visitas&color=E3000B&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+## 👋 About me
 
-Recién me pongo al día con el código. Vamos con paciencia.
+Just getting back up to speed with code. Taking it one step at a time!
 
-Nivel Bebé I en Digimon: EggMon🐔⚔️
+I love chickens and LEGO bricks 🐔⚔️
 
 ---
 
-## 🛠️ Habilidades (Skills)
+## 🛠️ Skills
 
 <div align="center">
 
@@ -42,37 +42,36 @@ Nivel Bebé I en Digimon: EggMon🐔⚔️
 
 ---
 
-## 🧬 Línea de Evolución: Línea 'ChickenMon'
+## 🧬 Evolution Line
 
 ```
 🥚 ──► 🐣 ──► 🐔 ──► 🧱🐔 ──► ⚙️🐔 ──► 👑🔥
 📍      🔒     🔒      🔒       🔒        🔒
 ```
 
-🥚 **Bebé I** → EggMon 📍 **¡AQUÍ ESTOY!**
-<br>🐣 **Bebé II** → ChickyMon 🔒
-<br>🐔 **Principiante (Rookie)** → ChickenMon 🔒
-<br>🧱 **Adulto (Champion)** → BrickChickenMon 🔒
-<br>⚙️ **Perfeccionado (Ultra)** → MetalChickenMon 🔒
-<br>👑 **Definitivo (Mega)** → ChickenGreymon *(o WarChickenMon)* 🔒
+🥚 **Baby I** → EggMon 📍 **I'M HERE!**
+<br>🐣 **Baby II** → ChickyMon 🔒
+<br>🐔 **Rookie** → ChickenMon 🔒
+<br>🧱 **Champion** → BrickChickenMon 🔒
+<br>⚙️ **Ultimate** → MetalChickenMon 🔒
+<br>👑 **Mega** → ChickenGreymon *(o WarChickenMon)* 🔒
 
-### ⚡ Medidor de evolución
+### ⚡ Evolution Meter
 
 ```
 🥚🐣🐔🧱⚙️👑
 🟨⬜⬜⬜⬜⬜   → 1/6 · ¡recién eclosionando!
 ```
 
-> *"¡EggMon digievoluciona a... **ChickyMon**!"* — próximamente. 🚀
+> *"EggMon digivolves to... **ChickyMon**!"* — Coming soon. 🚀
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChickenMon&show_icons=true&theme=dark&hide_border=true&title_color=FFCD03&icon_color=E3000B&text_color=F4F4F4&bg_color=1A1A1A" alt="Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenMon&layout=compact&theme=dark&hide_border=true&title_color=FFCD03&text_color=F4F4F4&bg_color=1A1A1A" alt="Lenguajes" height="160"/>
+> No stats yet, but they're coming soon! 😁😋
 
 </div>
 
