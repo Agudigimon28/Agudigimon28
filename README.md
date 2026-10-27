@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Banner decorativo --> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=120&section=header" alt="Banner ChickenMon" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FBF7EF,100:F3EBDD&height=120&section=header" alt="Banner ChickenMon" width="100%"/>
 <!-- Título con fuente tipo LEGO --> 
 <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=60&duration=3000&pause=1500&color=E3000B&center=true&vCenter=true&width=600&height=80&lines=ChickenMon;%F0%9F%A7%B1+ChickenMon+%F0%9F%A7%B1" alt="ChickenMon"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=24&duration=3000&pause=1000&color=FFCD03&center=true&vCenter=true&width=600&height=40&lines=Developer+%2F+Agudigimon28;Building+my+code+block+by+block." alt="Developer / Agudigimon28"/>
 
@@ -84,6 +84,6 @@ I love chickens and LEGO bricks 🐔⚔️
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=100&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FBF7EF,100:F3EBDD&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
