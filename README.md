@@ -8,9 +8,9 @@
 
 ### 🐣 ¡Hi there, I'm **ChickenMon**! 🧱
 
-![Level](https://img.shields.io/badge/Nivel-Baby_I-E3000B?style=for-the-badge&logo=github&logoColor=white)
-![State](https://img.shields.io/badge/Estado-Evolucionando-FFCD03?style=for-the-badge&labelColor=1A1A1A)
-![Visits](https://komarev.com/ghpvc/?username=ChickenMon&label=Visitas&color=E3000B&style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Baby_I-E3000B?style=for-the-badge&logo=github&logoColor=white)
+![State](https://img.shields.io/badge/State-Digivolving-FFCD03?style=for-the-badge&labelColor=1A1A1A)
+![Visits](https://komarev.com/ghpvc/?username=ChickenMon&label=Visits&color=E3000B&style=for-the-badge)
 
 </div>
 
